@@ -10,7 +10,7 @@ GNOME Shell extension that logs all desktop notifications to disk and provides a
 
 ## Requirements
 
-- GNOME Shell 49
+- GNOME Shell 49 or 50
 
 ## Install
 

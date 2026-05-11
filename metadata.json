@@ -2,6 +2,6 @@
   "uuid": "notification-history@khady",
   "name": "Notification History",
   "description": "Logs all notifications to disk as JSONL",
-  "shell-version": ["49"],
+  "shell-version": ["49", "50"],
   "url": "https://github.com/khady/gnome-notification-history"
 }
